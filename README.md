@@ -12,6 +12,7 @@
 [<img align="left" alt="Dominik Thalhammer | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Thalhammer | Github" width="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/github.svg" />][github]
 [<img align="left" alt="Thalhammer | Gitlab" width="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="Thalhammer | Matrix" width="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/matrix.svg" />][matrix]
 
 <br />
 
@@ -43,3 +44,4 @@
 [github]: https://github.com/Thalhammer/
 [gitlab]: https://gitlab.com/Thalhammer/
 [linkedin]: https://www.linkedin.com/in/dominik-thalhammer/
+[matrix]: https://matrix.to/#/@thalhammer:thalhammer.it
