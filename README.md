@@ -8,30 +8,30 @@
 
 ### Connect with me:
 
-[<img align="left" alt="thalhammer.it" width="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/globe.svg" />][website]
-[<img align="left" alt="Dominik Thalhammer | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Thalhammer | Github" width="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/github.svg" />][github]
-[<img align="left" alt="Thalhammer | Gitlab" width="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/gitlab.svg" />][gitlab]
-[<img align="left" alt="Thalhammer | Matrix" width="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/matrix.svg" />][matrix]
+[<img align="left" alt="thalhammer.it" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/globe.svg" />][website]
+[<img align="left" alt="Dominik Thalhammer | LinkedIn" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Thalhammer | Github" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/github.svg" />][github]
+[<img align="left" alt="Thalhammer | Gitlab" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="Thalhammer | Matrix" height="22px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/matrix.svg" />][matrix]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/cpp.svg" />][website]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/c.svg" />][website]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/c_sharp.svg" />][website]
-[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/lua.svg" />][website]
-[<img align="left" alt="RPG" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/ibm_rpg.png" />][website]
-[<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/ts.svg" />][website]
-[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/js.svg" />][website]
-[<img align="left" alt="Html 5" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/html5.svg" />][website]
-[<img align="left" alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/css3.svg" />][website]
-[<img align="left" alt="gRPC" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/grpc.svg" />][website]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/linux.svg" />][website]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/docker.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/mysql.svg" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/git.svg" />][website]
+[<img align="left" alt="C++" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/cpp.svg" />][website]
+[<img align="left" alt="C" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/c.svg" />][website]
+[<img align="left" alt="C#" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/c_sharp.svg" />][website]
+[<img align="left" alt="Lua" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/lua.svg" />][website]
+[<img align="left" alt="RPG" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/ibm_rpg.png" />][website]
+[<img align="left" alt="Typescript" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/ts.svg" />][website]
+[<img align="left" alt="Javascript" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/js.svg" />][website]
+[<img align="left" alt="Html 5" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/html5.svg" />][website]
+[<img align="left" alt="CSS 3" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/css3.svg" />][website]
+[<img align="left" alt="gRPC" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/grpc.svg" />][website]
+[<img align="left" alt="Linux" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/linux.svg" />][website]
+[<img align="left" alt="Docker" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/docker.png" />][website]
+[<img align="left" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/mysql.svg" />][website]
+[<img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/Thalhammer/Thalhammer/master/icons/git.svg" />][website]
 
 <br />
 <br />
