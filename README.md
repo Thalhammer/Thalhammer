@@ -44,4 +44,4 @@
 [github]: https://github.com/Thalhammer/
 [gitlab]: https://gitlab.com/Thalhammer/
 [linkedin]: https://www.linkedin.com/in/dominik-thalhammer/
-[matrix]: https://matrix.to/#/@thalhammer:thalhammer.it
+[matrix]: https://matrix.to/#/@dominik:thalhammer.it
